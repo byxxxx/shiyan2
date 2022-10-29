@@ -1,0 +1,91 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin: 0;
+    padding: 0;
+	line-height: 1em;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 15px;
+    width: 100%;
+    background: url("../../Pictures/怪奇物语/1.jpg") no-repeat;
+ }
+#nav{
+	margin:0 auto;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size:70px;
+	font-weight: bold;
+	text-align: right;
+}
+
+#con {
+    width: 960px;
+    padding: 20px;
+    height: auto;
+    margin: 10px auto;
+    background: #fff;
+    background-color: rgba(255, 255, 255, 0.5);
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+
+
+a{
+	font-family: 微软雅黑, "Trebuchet MS", Verdana;
+    font-size: 18px;
+    color: #000000;
+	text-decoration: none;
+ }
+
+ a:hover {
+    color: #721F20;
+ }
+
+
+ h1 {
+    font-family: Castellar, "Trebuchet MS", Verdana;
+    font-size: 60px;
+    color: #7B0002;
+    font-weight: bold;
+    margin: 20px 0 0 0;
+	text-decoration: underline;
+ }
+
+ h2 {
+    font-family: 微软雅黑, "Trebuchet MS", Verdana;
+    font-size: 30px;
+    color: #7B0002;
+    margin: 20px 0 20px 0px;
+	text-decoration: none;
+ }
+
+#main p {
+    font-family: 微软雅黑, "Trebuchet MS", Verdana;
+    font-size: 16px;
+	font-weight: bold;
+    color: #000000;
+    line-height: 26px;
+	margin:30px auto;
+	text-indent: 2em;
+ }
+#main_list li {
+	margin:5px 10px 5px 10px;
+    width: 280px;
+    height: 160px;
+	float:left;
+}
+#main_list img{
+	padding-top: 5px;
+	width:280px;
+	height:160px;
+}
+
+#footer h3{
+	font-family: Tahoma, "Trebuchet MS", Verdana;
+    font-size: 20px;
+    color: #7B0002;
+	line-height: 40px;
+    text-align: center;
+}
+
+
